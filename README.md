@@ -1,5 +1,31 @@
 ## Michael Grueter
 
+Welcome to the site all about me, Michael Grueter
+
+### An Introduction
+
+It's a pleasure to welcome to to my website where you can learn about me as person and a professional.
+
+### My Resumé
+
+Here is a PDF of my resume, please feel free to take a look and download it as needed. You will find my proffesional history as well as some acheivements and credentials of mine.
+
+### My PortFolio
+
+Here is my porfolio, a collection of projects that I have either completed that showcase my abilities.
+
+### About Me
+
+Perhaps your wondering about my journey
+
+#### What Inspires Me 
+
+#### What I Love to Do
+
+#### What I want to learn
+
+#### The Future
+
 You can use the [editor on GitHub](https://github.com/ApolloX3/ApolloX3.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
