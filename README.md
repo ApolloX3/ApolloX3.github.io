@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Michael Grueter
 
 You can use the [editor on GitHub](https://github.com/ApolloX3/ApolloX3.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
